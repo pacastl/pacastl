@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://github.com/pacastl">
+    <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacastl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacastl&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+  </a>
+</p>
 <!--
 **pacastl/pacastl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,9 +26,4 @@ Here are some ideas to get you started:
     bg_color=#808080/></p>
 
 <br>-->
-<p align="center">
-  <a href="https://github.com/pacastl">
-    <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacastl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacastl&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
-  </a>
-</p>
+
