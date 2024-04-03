@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=pacastl&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="pacastl" 
+    bg_color=#808080/></p>
+
+<br>-->
+<p align="center">
+  <a href="https://github.com/pacastl">
+    <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacastl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pacastl&layout=compact&langs_count=8&theme=algolia&hide=jupyter%20notebook"/>
+  </a>
+</p>
